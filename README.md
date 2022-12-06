@@ -1,7 +1,7 @@
 ### Hola, soy Andres G 👋
 ##### Soy un desarrollador con ganas de aprender una nueva tecnologia cada dia 🕹️, tengo bastantes conocimientos y experiencia, para solucionar problemas y mejorar los negocios de mis clientes. Me gusta mucho next js y typescript. Se un poco de react native y siempre me esmero por la satisfaccion del cliente.🦤
 ### Pasatiempos
-##### Me gusta mucho el basketball🏀, hacer diseños🎬, pasar tiempo con mis amigos 🎮😄, salir a trotar de vez en cuando 🤸‍♂️, leer historietas 📚, estudiar entre semana ⌚😍.
+##### Me gusta mucho el basketball🏀, hacer diseños y marketing🎬, pasar tiempo con mis amigos 🎮😄, salir a trotar de vez en cuando 🤸‍♂️, leer manwhas 📚, estudiar entre semana ⌚😍.
 
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando <b>Python</b>,<b>Aws</b>,<b>Django</b>,<b>Babel Y Webpack</b>,<b>React Native</b>,<b>Sockets</b>
@@ -32,7 +32,7 @@
   <a href = "mailto:theisandresfgv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  ![Snake animation](https://github.com/guille1999utp/guille1999utp/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SrAndresF/SrAndresF/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **guille1999utp/guille1999utp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
